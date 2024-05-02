@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.fontWeightBold": "bold",
+    "keyboard.touchbar.enabled": true,
+    "application.experimental.rendererProfiling": false
+}
